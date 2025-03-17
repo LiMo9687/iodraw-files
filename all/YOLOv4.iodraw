@@ -5772,7 +5772,7 @@
           <mxGeometry x="621" y="8460" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TWE84g4hWfXyjErhjpEo-4" value="输入用户信息进行登录" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="770" y="8505" width="80" height="40" as="geometry" />
+          <mxGeometry x="859" y="8550" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
