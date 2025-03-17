@@ -5772,7 +5772,7 @@
           <mxGeometry x="475" y="8530" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TWE84g4hWfXyjErhjpEo-4" value="医师子系统" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="590" y="8535" width="80" height="40" as="geometry" />
+          <mxGeometry x="850" y="8420" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TWE84g4hWfXyjErhjpEo-5" value="管理员子系统" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="590" y="8590" width="80" height="40" as="geometry" />
