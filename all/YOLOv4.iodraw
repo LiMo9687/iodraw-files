@@ -5820,7 +5820,10 @@
           <mxGeometry x="480" y="8540" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TWE84g4hWfXyjErhjpEo-21" value="结束" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="480" y="8770" width="80" height="30" as="geometry" />
+          <mxGeometry x="480" y="8920" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TWE84g4hWfXyjErhjpEo-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" edge="1" parent="1" source="TWE84g4hWfXyjErhjpEo-19" target="TWE84g4hWfXyjErhjpEo-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
