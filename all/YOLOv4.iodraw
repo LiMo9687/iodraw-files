@@ -5819,8 +5819,8 @@
         <mxCell id="TWE84g4hWfXyjErhjpEo-19" value="登录失败" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="480" y="8540" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TWE84g4hWfXyjErhjpEo-21" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
-          <mxGeometry x="820" y="8690" width="80" height="30" as="geometry" />
+        <mxCell id="TWE84g4hWfXyjErhjpEo-21" value="结束" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="480" y="8770" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
