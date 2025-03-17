@@ -5762,6 +5762,9 @@
         <mxCell id="KJNuSykUdHBQZmjxdH0v-4" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5025.5" y="7733" width="323" height="138" as="geometry" />
         </mxCell>
+        <mxCell id="TWE84g4hWfXyjErhjpEo-1" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="621" y="8537" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
