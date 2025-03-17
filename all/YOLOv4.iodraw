@@ -5768,6 +5768,9 @@
         <mxCell id="TWE84g4hWfXyjErhjpEo-2" value="输入用户信息进行登录" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="470" y="8460" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="TWE84g4hWfXyjErhjpEo-3" value="" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="605" y="8460" width="60" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
