@@ -5762,6 +5762,9 @@
         <mxCell id="KJNuSykUdHBQZmjxdH0v-4" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5025.5" y="7733" width="323" height="138" as="geometry" />
         </mxCell>
+        <mxCell id="TWE84g4hWfXyjErhjpEo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TWE84g4hWfXyjErhjpEo-1" target="TWE84g4hWfXyjErhjpEo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TWE84g4hWfXyjErhjpEo-1" value="开始" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="480" y="8410" width="80" height="30" as="geometry" />
         </mxCell>
