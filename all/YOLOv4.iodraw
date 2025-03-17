@@ -5813,7 +5813,7 @@
         <mxCell id="TWE84g4hWfXyjErhjpEo-15" value="生成相应的列表信息并更新相应的数据库" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="870.5" y="8750" width="179.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="TWE84g4hWfXyjErhjpEo-16" value="生成相应的列表信息" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;fontSize=14;size=0;" vertex="1" parent="1">
+        <mxCell id="TWE84g4hWfXyjErhjpEo-16" value="生成相应的列表信息" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="650.5" y="8750" width="179.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TWE84g4hWfXyjErhjpEo-19" value="登录失败" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
@@ -5824,6 +5824,11 @@
         </mxCell>
         <mxCell id="TWE84g4hWfXyjErhjpEo-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" edge="1" parent="1" source="TWE84g4hWfXyjErhjpEo-19" target="TWE84g4hWfXyjErhjpEo-21">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TWE84g4hWfXyjErhjpEo-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TWE84g4hWfXyjErhjpEo-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="9000" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="TWE84g4hWfXyjErhjpEo-23" value="操作成功" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="811" y="8900" width="80" height="40" as="geometry" />
