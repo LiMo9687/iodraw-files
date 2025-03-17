@@ -5769,7 +5769,7 @@
           <mxGeometry x="480" y="8465" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TWE84g4hWfXyjErhjpEo-3" value="" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="608.5" y="8460" width="95" height="50" as="geometry" />
+          <mxGeometry x="560" y="8470" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
