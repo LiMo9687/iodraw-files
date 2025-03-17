@@ -5802,7 +5802,10 @@
           <mxGeometry x="870.5" y="8590" width="179" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TWE84g4hWfXyjErhjpEo-15" value="生成相应的列表信息并更新相应的数据库" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="755.25" y="8750" width="179.5" height="100" as="geometry" />
+          <mxGeometry x="870.5" y="8750" width="179.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TWE84g4hWfXyjErhjpEo-16" value="生成相应的列表信息并更新相应的数据库" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="880.5" y="8760" width="179.5" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
