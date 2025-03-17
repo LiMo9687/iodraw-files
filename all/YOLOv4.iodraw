@@ -5771,6 +5771,9 @@
         <mxCell id="TWE84g4hWfXyjErhjpEo-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TWE84g4hWfXyjErhjpEo-2" target="TWE84g4hWfXyjErhjpEo-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TWE84g4hWfXyjErhjpEo-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TWE84g4hWfXyjErhjpEo-2" target="TWE84g4hWfXyjErhjpEo-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TWE84g4hWfXyjErhjpEo-2" value="输入用户信息进行登录" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="480" y="8465" width="80" height="40" as="geometry" />
         </mxCell>
@@ -5813,8 +5816,11 @@
         <mxCell id="TWE84g4hWfXyjErhjpEo-16" value="生成相应的列表信息" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="650.5" y="8750" width="179.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="TWE84g4hWfXyjErhjpEo-19" value="医师子系统" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="TWE84g4hWfXyjErhjpEo-19" value="登录失败" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="480" y="8540" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TWE84g4hWfXyjErhjpEo-21" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="820" y="8690" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
