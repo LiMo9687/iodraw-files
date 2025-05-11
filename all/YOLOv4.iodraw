@@ -5924,13 +5924,8 @@
         <mxCell id="5UBlJsAWvKNWlsst0Rzc-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;主动创建&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="273" y="5965" width="82" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="5UBlJsAWvKNWlsst0Rzc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5UBlJsAWvKNWlsst0Rzc-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="241.66666666666674" y="6242.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5UBlJsAWvKNWlsst0Rzc-18" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;IoC容器&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;1、创建用户类&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;2、看用户类是否有依赖对象需要注入&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;3、由用户信息类需要注入，首先创建用户信息类，然后将其注入到用户类&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;4、由容器管理这些对象的生命周期&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="19" y="6047" width="446" height="153" as="geometry" />
+          <mxGeometry x="19" y="6047" width="500" height="193" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
