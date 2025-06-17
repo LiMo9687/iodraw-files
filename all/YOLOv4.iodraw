@@ -5967,7 +5967,7 @@
           <mxGeometry x="845" y="9392" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BtnJaR909Qk5_vUBTw78-2" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;缺失值处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7814" y="5873" width="141" height="60" as="geometry" />
+          <mxGeometry x="7829" y="5873" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BtnJaR909Qk5_vUBTw78-3" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;数据可视化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7993" y="5873" width="141" height="60" as="geometry" />
@@ -5996,8 +5996,8 @@
         <mxCell id="BtnJaR909Qk5_vUBTw78-11" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;GUI界面制作&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9120" y="5873" width="141" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BtnJaR909Qk5_vUBTw78-12" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;缺失值处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7647" y="5876" width="141" height="60" as="geometry" />
+        <mxCell id="BtnJaR909Qk5_vUBTw78-12" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;数据读取&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7642" y="5873" width="141" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
