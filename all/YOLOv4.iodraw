@@ -5993,6 +5993,9 @@
         <mxCell id="BtnJaR909Qk5_vUBTw78-9" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;模型训练：随机森林&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8741" y="5950.5" width="141" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BtnJaR909Qk5_vUBTw78-10" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;特征值选取：互信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8562" y="5883" width="141" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
