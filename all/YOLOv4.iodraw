@@ -5972,6 +5972,9 @@
         <mxCell id="BtnJaR909Qk5_vUBTw78-2" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;缺失值处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7814" y="5873" width="141" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BtnJaR909Qk5_vUBTw78-3" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;缺失值处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7993" y="5873" width="141" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
