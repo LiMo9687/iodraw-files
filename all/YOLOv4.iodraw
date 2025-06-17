@@ -5987,6 +5987,9 @@
         <mxCell id="BtnJaR909Qk5_vUBTw78-4" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;数据清理：学生化残差&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8193" y="5801" width="141" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BtnJaR909Qk5_vUBTw78-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BtnJaR909Qk5_vUBTw78-5" target="BtnJaR909Qk5_vUBTw78-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BtnJaR909Qk5_vUBTw78-5" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;数据清理：隔离森林&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8193" y="5950.5" width="141" height="60" as="geometry" />
         </mxCell>
