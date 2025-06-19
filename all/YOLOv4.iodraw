@@ -6035,6 +6035,99 @@
         <mxCell id="BtnJaR909Qk5_vUBTw78-12" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;数据读取&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7665" y="5873" width="141" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BERkocnWHxHEH1kD6XtC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BERkocnWHxHEH1kD6XtC-2" target="BERkocnWHxHEH1kD6XtC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BERkocnWHxHEH1kD6XtC-2" value="开始" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="1420" y="8251" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BERkocnWHxHEH1kD6XtC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BERkocnWHxHEH1kD6XtC-5" target="BERkocnWHxHEH1kD6XtC-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BERkocnWHxHEH1kD6XtC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BERkocnWHxHEH1kD6XtC-5" target="BERkocnWHxHEH1kD6XtC-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BERkocnWHxHEH1kD6XtC-5" value="输入用户信息进行登录" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="8306" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BERkocnWHxHEH1kD6XtC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BERkocnWHxHEH1kD6XtC-8" target="BERkocnWHxHEH1kD6XtC-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BERkocnWHxHEH1kD6XtC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BERkocnWHxHEH1kD6XtC-8" target="BERkocnWHxHEH1kD6XtC-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BERkocnWHxHEH1kD6XtC-8" value="判断权限" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="1614" y="8301" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BERkocnWHxHEH1kD6XtC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BERkocnWHxHEH1kD6XtC-10" target="BERkocnWHxHEH1kD6XtC-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BERkocnWHxHEH1kD6XtC-10" value="医师子系统" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="8361" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BERkocnWHxHEH1kD6XtC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BERkocnWHxHEH1kD6XtC-12" target="BERkocnWHxHEH1kD6XtC-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BERkocnWHxHEH1kD6XtC-12" value="管理员子系统" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="8241" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BERkocnWHxHEH1kD6XtC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BERkocnWHxHEH1kD6XtC-14" target="BERkocnWHxHEH1kD6XtC-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BERkocnWHxHEH1kD6XtC-14" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;PingFang SC&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;医师通过医疗系统查询药品信息、医保政策、医药公司政策及必备材料&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1670.5" y="8431" width="179" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BERkocnWHxHEH1kD6XtC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BERkocnWHxHEH1kD6XtC-16" target="BERkocnWHxHEH1kD6XtC-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BERkocnWHxHEH1kD6XtC-16" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.9); font-family: &amp;quot;PingFang SC&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei UI&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans CN&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(252, 252, 252);&quot;&gt;管理员通过医疗系统管理医药公司、销售地点、城市信息、药品信息、医保政策、医药公司政策、医生信息及必备材料&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1890.5" y="8431" width="179" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BERkocnWHxHEH1kD6XtC-17" value="生成相应的列表信息并更新相应的数据库" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1890.5" y="8591" width="179.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BERkocnWHxHEH1kD6XtC-18" value="生成相应的列表信息" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1670.5" y="8591" width="179.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BERkocnWHxHEH1kD6XtC-19" value="登录失败" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="8381" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BERkocnWHxHEH1kD6XtC-20" value="结束" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="1420" y="8746" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BERkocnWHxHEH1kD6XtC-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" edge="1" parent="1" source="BERkocnWHxHEH1kD6XtC-19" target="BERkocnWHxHEH1kD6XtC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BERkocnWHxHEH1kD6XtC-22" value="操作成功" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1836" y="8741" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BERkocnWHxHEH1kD6XtC-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BERkocnWHxHEH1kD6XtC-22" target="BERkocnWHxHEH1kD6XtC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BERkocnWHxHEH1kD6XtC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1876" y="8721" as="sourcePoint" />
+            <mxPoint x="1875.8" y="8741" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BERkocnWHxHEH1kD6XtC-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1759" y="8721" as="sourcePoint" />
+            <mxPoint x="1990" y="8721" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BERkocnWHxHEH1kD6XtC-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1990" y="8721" as="sourcePoint" />
+            <mxPoint x="1990.6100000000001" y="8681" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BERkocnWHxHEH1kD6XtC-27" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1759.69" y="8721" as="sourcePoint" />
+            <mxPoint x="1760.3" y="8676" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
