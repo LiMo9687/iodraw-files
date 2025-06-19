@@ -6086,7 +6086,7 @@
         <mxCell id="BERkocnWHxHEH1kD6XtC-17" value="生成相应的列表信息并更新相应的数据库" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1890.5" y="8591" width="179.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="BERkocnWHxHEH1kD6XtC-18" value="生成相应的列表信息" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="BERkocnWHxHEH1kD6XtC-18" value="生成相应的列表信息，个人信息管理可以更新相应数据库" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=0;flipH=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1670.5" y="8591" width="179.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BERkocnWHxHEH1kD6XtC-19" value="登录失败" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
