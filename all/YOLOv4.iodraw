@@ -6390,10 +6390,10 @@
           <mxGeometry x="8274" y="495" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-175" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;人脸图像增强&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8284" y="505" width="141" height="60" as="geometry" />
+          <mxGeometry x="8672" y="394" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-176" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;人脸图像增强&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8294" y="515" width="141" height="60" as="geometry" />
+          <mxGeometry x="8473" y="397" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-177" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;人脸采集&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8274" y="397" width="141" height="60" as="geometry" />
