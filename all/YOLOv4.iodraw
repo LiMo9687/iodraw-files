@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-151" value="三大初始化" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=40;" vertex="1" parent="1">
-          <mxGeometry x="7956" y="1830" width="769" height="404" as="geometry" />
+          <mxGeometry x="7527" y="1830" width="769" height="404" as="geometry" />
         </mxCell>
         <mxCell id="K97AdvUR3YWOZVuSfSTv-190" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="4411" y="1157" width="673" height="612" as="geometry" />
@@ -6315,43 +6315,43 @@
           <mxGeometry x="8008" y="1485.5" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-148" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;加载人脸检测模型（InsightFace中的buffalo_sc模型）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8008" y="1884" width="619" height="60" as="geometry" />
+          <mxGeometry x="7579" y="1884" width="619" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-149" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;加载情感识别模型（EfficientFER或DeepFace）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8008" y="1999" width="619" height="60" as="geometry" />
+          <mxGeometry x="7579" y="1999" width="619" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-150" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;加载情感追踪器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8008" y="2121" width="619" height="60" as="geometry" />
+          <mxGeometry x="7579" y="2121" width="619" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-152" value="五大核心流程" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=40;" vertex="1" parent="1">
-          <mxGeometry x="8855" y="1830" width="769" height="404" as="geometry" />
+          <mxGeometry x="8426" y="1830" width="769" height="404" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-153" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;人脸检测：检测每帧中人脸&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8926" y="1892" width="619" height="40" as="geometry" />
+          <mxGeometry x="8497" y="1892" width="619" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-154" value="三大输入方式" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=40;" vertex="1" parent="1">
-          <mxGeometry x="7060" y="1830" width="769" height="404" as="geometry" />
+          <mxGeometry x="6631" y="1830" width="769" height="404" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-155" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;图像&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7135" y="1884" width="619" height="60" as="geometry" />
+          <mxGeometry x="6706" y="1884" width="619" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-156" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;视频&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7135" y="2005" width="619" height="60" as="geometry" />
+          <mxGeometry x="6706" y="2005" width="619" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-157" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;实时摄像头&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7135" y="2121" width="619" height="60" as="geometry" />
+          <mxGeometry x="6706" y="2121" width="619" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-159" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;自适应增强：根据图像特性选择最佳增强技术&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8926" y="1949" width="619" height="40" as="geometry" />
+          <mxGeometry x="8497" y="1949" width="619" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-160" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;预处理：调整大小和标准化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8926" y="2010" width="619" height="40" as="geometry" />
+          <mxGeometry x="8497" y="2010" width="619" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-161" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;情感分类：使用神经网络预测情绪&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8926" y="2071" width="619" height="40" as="geometry" />
+          <mxGeometry x="8497" y="2071" width="619" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-162" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;情绪跟踪：应用移动平均平滑结果&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8926" y="2133" width="619" height="40" as="geometry" />
+          <mxGeometry x="8497" y="2133" width="619" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-163" value="三大输入方式" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="7515" y="2382" width="769" height="404" as="geometry" />
