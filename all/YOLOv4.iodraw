@@ -6131,11 +6131,8 @@
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-2" value="&lt;h1&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;人脸采集&lt;/font&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="8278" y="586" width="133" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="f2Ff37nwR7v_Ut-I01bZ-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="8422" y="613" as="sourcePoint" />
-            <mxPoint x="8472" y="563" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="f2Ff37nwR7v_Ut-I01bZ-4" value="&lt;h1&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;人脸采集&lt;/font&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="8477" y="586" width="133" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
