@@ -6330,7 +6330,7 @@
           <mxGeometry x="8926" y="1851" width="619" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-154" value="三大初始化" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=40;" vertex="1" parent="1">
-          <mxGeometry x="7966" y="1840" width="769" height="404" as="geometry" />
+          <mxGeometry x="7060" y="1830" width="769" height="404" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
