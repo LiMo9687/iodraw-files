@@ -6378,7 +6378,10 @@
           <mxGeometry x="6996" y="3130" width="769" height="404" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-171" value="&lt;span style=&quot;font-size: 39px;&quot;&gt;图像情感分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7071" y="3159" width="619" height="83" as="geometry" />
+          <mxGeometry x="7081" y="3296" width="619" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="f2Ff37nwR7v_Ut-I01bZ-172" value="&lt;span style=&quot;font-size: 39px;&quot;&gt;图像情感分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7081" y="3169" width="619" height="83" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
