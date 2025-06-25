@@ -6326,8 +6326,8 @@
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-152" value="三大初始化" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="8851" y="1827" width="769" height="404" as="geometry" />
         </mxCell>
-        <mxCell id="f2Ff37nwR7v_Ut-I01bZ-153" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;加载人脸检测模型（InsightFace中的buffalo_sc模型）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8018" y="1894" width="619" height="60" as="geometry" />
+        <mxCell id="f2Ff37nwR7v_Ut-I01bZ-153" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;人脸检测：检测每帧中人脸&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8926" y="1851" width="619" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
