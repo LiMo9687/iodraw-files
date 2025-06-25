@@ -6150,7 +6150,10 @@
           <mxGeometry x="8875" y="586" width="133" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-13" value="&lt;h1&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;系统启动&lt;/span&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="8428" y="728" width="133" height="52" as="geometry" />
+          <mxGeometry x="8278" y="713" width="133" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="f2Ff37nwR7v_Ut-I01bZ-16" value="&lt;h1&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;系统启动&lt;/span&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="8288" y="723" width="133" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
