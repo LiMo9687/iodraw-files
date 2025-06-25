@@ -6341,7 +6341,7 @@
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-157" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;实时摄像头&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7135" y="2121" width="619" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f2Ff37nwR7v_Ut-I01bZ-159" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;人脸检测：检测每帧中人脸&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f2Ff37nwR7v_Ut-I01bZ-159" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;自适应增强：根据图像特性选择最佳增强技术&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8926" y="1908" width="619" height="40" as="geometry" />
         </mxCell>
       </root>
