@@ -6317,6 +6317,9 @@
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-149" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;加载情感识别模型（EfficientFER或DeepFace）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8008" y="1999" width="619" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="f2Ff37nwR7v_Ut-I01bZ-150" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;加载情感识别模型（EfficientFER或DeepFace）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8008" y="2136" width="619" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
