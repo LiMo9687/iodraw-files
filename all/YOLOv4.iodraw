@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2713" dy="1829" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
+    <mxGraphModel dx="2220" dy="1496" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6352,6 +6352,9 @@
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-162" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;情绪跟踪：应用移动平均平滑结果&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8926" y="2133" width="619" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f2Ff37nwR7v_Ut-I01bZ-163" value="三大输入方式" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="7070" y="1840" width="769" height="404" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
