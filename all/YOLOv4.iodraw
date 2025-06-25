@@ -6347,7 +6347,7 @@
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-160" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;预处理：调整大小和标准化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8926" y="1969" width="619" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f2Ff37nwR7v_Ut-I01bZ-161" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;预处理：调整大小和标准化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f2Ff37nwR7v_Ut-I01bZ-161" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;情感分类：使用神经网络预测情绪&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8926" y="2030" width="619" height="40" as="geometry" />
         </mxCell>
       </root>
