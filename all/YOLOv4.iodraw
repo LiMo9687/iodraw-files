@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2435" dy="1372" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
+    <mxGraphModel dx="4174" dy="2351" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6324,10 +6324,10 @@
           <mxGeometry x="7194" y="2121" width="619" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-152" value="五大核心流程" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=40;" vertex="1" parent="1">
-          <mxGeometry x="8041" y="1830" width="769" height="404" as="geometry" />
+          <mxGeometry x="6246" y="2357" width="769" height="404" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-153" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;人脸检测：检测每帧中人脸&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8112" y="1892" width="619" height="40" as="geometry" />
+          <mxGeometry x="6317" y="2419" width="619" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-154" value="三大输入方式" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="6246" y="1830" width="769" height="404" as="geometry" />
@@ -6342,28 +6342,28 @@
           <mxGeometry x="6321" y="2121" width="619" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-159" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;自适应增强：根据图像特性选择最佳增强技术&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8112" y="1949" width="619" height="40" as="geometry" />
+          <mxGeometry x="6317" y="2476" width="619" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-160" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;预处理：调整大小和标准化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8112" y="2010" width="619" height="40" as="geometry" />
+          <mxGeometry x="6317" y="2537" width="619" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-161" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;情感分类：使用神经网络预测情绪&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8112" y="2071" width="619" height="40" as="geometry" />
+          <mxGeometry x="6317" y="2598" width="619" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-162" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;情绪跟踪：应用移动平均平滑结果&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8112" y="2133" width="619" height="40" as="geometry" />
+          <mxGeometry x="6317" y="2660" width="619" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-163" value="三大输出方式" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=40;" vertex="1" parent="1">
-          <mxGeometry x="8914" y="1830" width="769" height="404" as="geometry" />
+          <mxGeometry x="7119" y="2357" width="769" height="404" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-164" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;图像模式：保存处理后的图片&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8989" y="1884" width="619" height="60" as="geometry" />
+          <mxGeometry x="7194" y="2411" width="619" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-165" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;视频模式：写入处理后的视频文件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8989" y="2002" width="619" height="60" as="geometry" />
+          <mxGeometry x="7194" y="2529" width="619" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-166" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;实时模式：显示实时处理结果&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8989" y="2111" width="619" height="60" as="geometry" />
+          <mxGeometry x="7194" y="2638" width="619" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
