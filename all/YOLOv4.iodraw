@@ -6362,7 +6362,7 @@
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-165" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;视频模式：写入处理后的视频文件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8989" y="1981" width="619" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f2Ff37nwR7v_Ut-I01bZ-166" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;视频模式：写入处理后的视频文件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f2Ff37nwR7v_Ut-I01bZ-166" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;实时模式：显示实时处理结果&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8989" y="2111" width="619" height="60" as="geometry" />
         </mxCell>
       </root>
