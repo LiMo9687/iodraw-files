@@ -6368,8 +6368,8 @@
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-167" value="两大拓展功能" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="7858" y="3130" width="769" height="404" as="geometry" />
         </mxCell>
-        <mxCell id="f2Ff37nwR7v_Ut-I01bZ-168" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;图像模式：保存处理后的图片&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7954" y="3179" width="619" height="60" as="geometry" />
+        <mxCell id="f2Ff37nwR7v_Ut-I01bZ-168" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;视频补帧：基于EMA-VFI&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7933" y="3179" width="619" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
