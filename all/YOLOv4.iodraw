@@ -6332,14 +6332,14 @@
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-154" value="三大输入方式" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=40;" vertex="1" parent="1">
           <mxGeometry x="7060" y="1830" width="769" height="404" as="geometry" />
         </mxCell>
-        <mxCell id="f2Ff37nwR7v_Ut-I01bZ-155" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;加载人脸检测模型（InsightFace中的buffalo_sc模型）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f2Ff37nwR7v_Ut-I01bZ-155" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;图像&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7135" y="1884" width="619" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-156" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;加载人脸检测模型（InsightFace中的buffalo_sc模型）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7135" y="2005" width="619" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-157" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;加载人脸检测模型（InsightFace中的buffalo_sc模型）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7145" y="2015" width="619" height="60" as="geometry" />
+          <mxGeometry x="7135" y="2121" width="619" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
