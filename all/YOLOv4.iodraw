@@ -6453,8 +6453,11 @@
         <mxCell id="4y-xUYgMCxpr_gwu3kqr-16" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;语音文本&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7439" y="4424" width="141" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4y-xUYgMCxpr_gwu3kqr-17" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;情绪历史&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4y-xUYgMCxpr_gwu3kqr-17" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;情感分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7603" y="4424" width="141" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4y-xUYgMCxpr_gwu3kqr-19" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;情感分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7613" y="4434" width="141" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
