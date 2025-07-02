@@ -6424,8 +6424,11 @@
         <mxCell id="4y-xUYgMCxpr_gwu3kqr-6" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;视频流&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7111" y="4351" width="141" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4y-xUYgMCxpr_gwu3kqr-7" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;面部数据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4y-xUYgMCxpr_gwu3kqr-7" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;情绪分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7439" y="4351" width="141" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4y-xUYgMCxpr_gwu3kqr-8" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;情绪分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7646" y="4353" width="141" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
