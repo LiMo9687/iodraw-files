@@ -6407,6 +6407,9 @@
         <mxCell id="f2Ff37nwR7v_Ut-I01bZ-177" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;人脸采集&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="8274" y="397" width="141" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4y-xUYgMCxpr_gwu3kqr-2" value="&lt;font style=&quot;font-size: 39px;&quot;&gt;视频补帧：基于EMA-VFI&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7933" y="3435" width="619" height="79" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
