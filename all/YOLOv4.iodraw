@@ -6453,11 +6453,14 @@
         <mxCell id="4y-xUYgMCxpr_gwu3kqr-16" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;语音文本&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7439" y="4424" width="141" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4y-xUYgMCxpr_gwu3kqr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4y-xUYgMCxpr_gwu3kqr-17" target="4y-xUYgMCxpr_gwu3kqr-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4y-xUYgMCxpr_gwu3kqr-17" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;情感分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7603" y="4424" width="141" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4y-xUYgMCxpr_gwu3kqr-19" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;情感分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7613" y="4434" width="141" height="60" as="geometry" />
+        <mxCell id="4y-xUYgMCxpr_gwu3kqr-19" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;音频特征&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="7767" y="4424" width="141" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
