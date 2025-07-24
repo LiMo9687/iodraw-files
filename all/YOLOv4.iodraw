@@ -6485,9 +6485,6 @@
         <mxCell id="4y-xUYgMCxpr_gwu3kqr-27" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;干预决策&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="7603" y="4496" width="141" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UPOBe0xMWOEjfxjIjTbB-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
-          <mxGeometry x="4782" y="5028" width="60" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
