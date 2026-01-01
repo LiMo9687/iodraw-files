@@ -138,8 +138,11 @@
         <mxCell id="K6rslFJGXdVKTfY_BYFA-51" value="教务爬虫" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="740" width="81" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K6rslFJGXdVKTfY_BYFA-55" value="页面展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K6rslFJGXdVKTfY_BYFA-55" value="渲染前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="800" width="81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K6rslFJGXdVKTfY_BYFA-56" value="页面展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="888" width="81" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
