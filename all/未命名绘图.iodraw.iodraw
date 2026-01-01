@@ -178,7 +178,14 @@
           <mxGeometry x="230" y="800" width="81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K6rslFJGXdVKTfY_BYFA-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="K6rslFJGXdVKTfY_BYFA-69" target="K6rslFJGXdVKTfY_BYFA-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="815" />
+              <mxPoint x="420" y="850" />
+              <mxPoint x="430" y="850" />
+              <mxPoint x="430" y="865" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="K6rslFJGXdVKTfY_BYFA-69" value="Python" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="319" y="800" width="81" height="30" as="geometry" />
