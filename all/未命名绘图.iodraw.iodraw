@@ -48,6 +48,11 @@
         <mxCell id="K6rslFJGXdVKTfY_BYFA-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="K6rslFJGXdVKTfY_BYFA-14" target="K6rslFJGXdVKTfY_BYFA-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="K6rslFJGXdVKTfY_BYFA-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K6rslFJGXdVKTfY_BYFA-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390.9047619047618" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="K6rslFJGXdVKTfY_BYFA-14" value="MapReduce" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="952" width="81" height="30" as="geometry" />
         </mxCell>
@@ -82,7 +87,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K6rslFJGXdVKTfY_BYFA-36" value="数据清洗" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="K6rslFJGXdVKTfY_BYFA-36" value="词频统计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="311" y="990" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
