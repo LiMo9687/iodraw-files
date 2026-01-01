@@ -164,7 +164,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K6rslFJGXdVKTfY_BYFA-64" value="教务爬虫" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="750" width="81" height="30" as="geometry" />
+          <mxGeometry x="230" y="800" width="81" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
