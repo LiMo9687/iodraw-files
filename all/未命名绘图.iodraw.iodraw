@@ -36,7 +36,7 @@
         </mxCell>
         <mxCell id="K6rslFJGXdVKTfY_BYFA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="K6rslFJGXdVKTfY_BYFA-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270.4" y="950" as="targetPoint" />
+            <mxPoint x="270" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K6rslFJGXdVKTfY_BYFA-13" value="豆瓣爬虫" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
