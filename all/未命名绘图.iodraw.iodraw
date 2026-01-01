@@ -10,8 +10,8 @@
         <mxCell id="K6rslFJGXdVKTfY_BYFA-3" value="爬取内容XPath" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="50" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K6rslFJGXdVKTfY_BYFA-4" value="定制请求头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="60" width="80" height="30" as="geometry" />
+        <mxCell id="K6rslFJGXdVKTfY_BYFA-4" value="写操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="50" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
