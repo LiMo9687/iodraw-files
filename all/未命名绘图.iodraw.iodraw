@@ -121,6 +121,9 @@
         <mxCell id="K6rslFJGXdVKTfY_BYFA-47" value="调用API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="515" y="790" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="K6rslFJGXdVKTfY_BYFA-49" value="SpringBoot3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="449" y="810" width="81" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
