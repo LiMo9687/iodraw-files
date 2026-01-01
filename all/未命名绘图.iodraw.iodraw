@@ -100,6 +100,9 @@
         <mxCell id="K6rslFJGXdVKTfY_BYFA-41" value="词云图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="1022" width="81" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="K6rslFJGXdVKTfY_BYFA-42" value="WordCloud" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1010" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
