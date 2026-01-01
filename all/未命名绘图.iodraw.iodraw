@@ -177,6 +177,9 @@
         <mxCell id="K6rslFJGXdVKTfY_BYFA-64" value="教务加密" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="800" width="81" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="K6rslFJGXdVKTfY_BYFA-69" value="Python" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="800" width="81" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
